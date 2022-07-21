@@ -16,4 +16,4 @@ short_link = pyshort.tinyurl.short(long_link) #shortening URL
 print("The shortened link is: " + short_link) #Shortened link displayed.
 
 
-# This code is contribute by Mohajit Paul
+# This code is contributed by Mohajit Paul
