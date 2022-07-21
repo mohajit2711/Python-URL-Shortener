@@ -1,5 +1,8 @@
 import pyshorteners
 
+# Sample URL - https://github.com/mohajit2711/Python-URL-Shortener
+
+
 print("Hello, Welcome to Mohajit's URL shortener terminal! ")
 
 print("\n")
