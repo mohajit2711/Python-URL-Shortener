@@ -24,7 +24,4 @@ The idea is to minimize the web page address into something that's easier to rem
   - Shorten away!
 ## Badges
 
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/mohajit2711/Python-URL-Shortener?color=purple&style=for-the-badge)
